@@ -1,6 +1,15 @@
 # THE_GRAM with Redux
+Instagram clone SPA (single-page-application), in an effort to learn modern JS libraries.
 
-A simple React + Redux app in where im trying to mimic the gram
+Uses:
+
+React
+Redux
+React-Router
+Redux Form
+Redux Thunk
+Material UI
+and more
 
 ## Running
 
